@@ -1,5 +1,9 @@
 # 啊哈，贝叶斯
 
+![image](https://user-images.githubusercontent.com/102202991/159696202-cda80d3b-f918-46f5-889d-cf0676f97cde.png)
+> Probability is nothing but common sense reduced to calculation.（概率论只不过是把常识用数学公式表达了出来。）—— [Pierre-Simon Laplace](https://zh.wikipedia.org/wiki/皮埃尔-西蒙·拉普拉斯)
+
+![image](https://user-images.githubusercontent.com/102202991/159696908-95d6b68b-75ea-401b-b3e2-1c79d61e6f14.png)
 
 贝叶斯定理实际上让我们可以根据概率，把已经发生的事件纳入考虑，以此对未来得出结论。你只需要三个元素的大致概率，填入贝叶斯公式，就可以得出比所谓专家更准确的结论，这是基本的概率思维方式。
 
@@ -38,6 +42,8 @@
 
 
 ## 参考
+
+1. [如何简单理解贝叶斯决策理论（Bayes Decision Theory）？](https://juejin.cn/post/6980288570552483847)
 
 
 ![Alt](https://repobeats.axiom.co/api/embed/e58be32b137f59e2c2c936a9c55abfb20e6613d9.svg "Repobeats analytics image")
